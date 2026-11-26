@@ -1,0 +1,6 @@
+﻿"Path","SHA256"
+"src/main/java/se/hirt/searobots/sub/sol61/ContactTrack.java","3e0c9f6fb0b3bd5e7fe604cbaf5c290b4b97efb450c9d93d43e5565b95a46eac"
+"src/main/java/se/hirt/searobots/sub/sol61/Geometry.java","1239283411ebc80d6ae424eb5b96c2cd0e649d82c1da5f7127f6ca8198afc0d4"
+"src/main/java/se/hirt/searobots/sub/sol61/Navigator.java","a7db0be3b9bd398d3b69d63a51249f6253f275ba3932df8ca7a86a60108392a9"
+"src/main/java/se/hirt/searobots/sub/sol61/Sol61Submarine.java","4fd88789b11622e24c6a9d0e64c2770bbe125d542cf880b2502859596e2e0d4b"
+"src/main/java/se/hirt/searobots/sub/sol61/Sol61Torpedo.java","282e1696f12a33f981a4d314ae5cc01ec07ce90eeef59bfc9450881bcf9eff13"
